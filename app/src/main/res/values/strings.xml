@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Pokemon</string>
+
+
+    <!--Content description-->
+    <string name="splash_animation">Welcome screen</string>
 </resources>
